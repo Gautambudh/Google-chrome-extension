@@ -1,0 +1,14 @@
+
+{
+    "name": "Gautam kumar",
+    "description": "Get the title of current tab",
+    "version": "0.0.1",
+    "manifest_version": 3,
+    
+    "action": {
+        "default_icon": "title.png",
+        "default_popup": "popup.html",
+        "default_title": "Get the title"
+    },
+    "permissions": ["tabs"]
+}
